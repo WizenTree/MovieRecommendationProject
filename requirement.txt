@@ -1,0 +1,7 @@
+numpy==1.25.2
+pandas==1.5.3
+scikit-learn==1.2.2
+nltk==3.8.1
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1 # fuzzywuzzy requires this
+gdown==4.7.1
